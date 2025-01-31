@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Planet
+comment0.text=\r\n\ Gurveer\ Singh\ \r\n\ Student\ No.\=\ 3187474\r\n
+comment1.params=friendlyName\ moons\ isTerrestrial
+comment1.target=Planet(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getFriendlyName()
+comment3.params=
+comment3.target=int\ getNumberOfMoons()
+comment4.params=
+comment4.target=boolean\ isTerrestrial()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=public\ boolean\ isTerrestrial()\ \r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ isTerrestrial;\r\n}
+numComments=6
